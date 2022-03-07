@@ -16,7 +16,7 @@
 
 ### 参赛要求
 
-- 以小组为单位参赛，最多五人一个小组，且小组成员是来自同一所高校的学生
+- 以小组为单位参赛，最多三人一个小组，且小组成员是来自同一所高校的本科生/研究生
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2022全国大学生操作系统比赛”的章程和技术方案要求
 
@@ -24,10 +24,12 @@
 ### 项目导师
 
 
+陈霖翔:
+github id: kylin0061
+email: chenlinxiang@kylinos.cn
 
-* 陈霖翔: chenlinxiang@kylinos.cn
-
-* 周磊: zhoulei@kylinos.cn
+周磊:
+email: zhoulei@kylinos.cn
 
 
 
